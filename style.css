@@ -1,0 +1,65 @@
+body {
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+p { padding-bottom: 12px;
+    margin: 0px;
+}
+
+#header{
+  margin-bottom: 32px;
+  text-align: center;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0px;
+
+}
+
+h2 {
+  font-size: 32px;
+  padding-bottom: 8px;
+
+  border-bottom: 1px solid gray;
+  margin-top: 10px;
+  display: block;
+
+  
+}
+#date{
+  font-style: italic;
+}
+#important{
+  font-style: oblique ;
+}
+.header-title{
+  border: none;
+  padding-bottom: 10px;
+  
+  
+}
+h2.header-title{
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+h3{
+  font-size: 18px;
+  margin: 0px;
+}
+
+#footer{
+  margin-top: 64px;
+  text-align: center;
+}
+
+/* BEGIN (write your solution here) */
+
+/* END */
